@@ -1,12 +1,12 @@
-package arduino.mongoDBXML;
+package arduinotoy.example.SpringReact;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MongoDbxmlApplication {
+public class SpringReactApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MongoDbxmlApplication.class, args);
+		SpringApplication.run(SpringReactApplication.class, args);
 	}
 }
